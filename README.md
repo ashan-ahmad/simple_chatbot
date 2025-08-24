@@ -44,6 +44,10 @@ _You should replace the text in the parentheses `()` with the URL of your image.
 #### 📂 Project Structure
 
 Your project should be organized as follows:
+.
+├── app.py
+└── templates/
+...└── index.html
 
 - `app.py`: Contains the backend logic for the Flask server and LLM integration.
 - `templates/index.html`: Holds the frontend code for the chatbot's user interface.
