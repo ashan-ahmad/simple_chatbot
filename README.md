@@ -14,8 +14,7 @@ This project showcases the creation of a simple yet fully functional web-based c
 ### 🖼️ UI Screenshot
 
 A picture is worth a thousand words! Here is a screenshot of the chatbot's user interface.
-![Chatbot Web UI](https://example.com/your-screenshot-here.png)
-_You should replace the text in the parentheses `()` with the URL of your image. You can host the image on GitHub by simply dragging and dropping it into your repository, and then copying its link._
+![Chatbot Web UI](https://github.com/ashan-ahmad/simple_chatbot/blob/main/Screenshot%202025-08-24%20123610.jpg)
 
 ### 🚀 Getting Started
 
